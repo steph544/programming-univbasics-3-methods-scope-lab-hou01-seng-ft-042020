@@ -8,3 +8,14 @@ def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
+
+def link 
+  catch = "It's Dangers To Go Alone! Take This."
+  puts catch
+end
+
+def all_phrases
+  puts Mario
+  puts toadstool
+  puts link
+end
